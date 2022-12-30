@@ -1,1 +1,1 @@
-# Learn how to access a JSON file and show it to html
+# Learn how to access a JSON file and show it to frontend
